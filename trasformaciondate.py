@@ -1,0 +1,7 @@
+nombre=input("digite su nombre")
+print(type(nombre))
+cedula=int(input("digite su cedula"))
+print(type(cedula))
+peso=float(input("digite su peso"))
+print(type(peso))
+print(f"mi nombre es{nombre},mi cedula es{cedula}mi peso es {peso}kg")
