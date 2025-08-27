@@ -3,7 +3,7 @@
 ## repositorio personalizado readme
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+
 
 brehinner avila
 ## Color Reference
